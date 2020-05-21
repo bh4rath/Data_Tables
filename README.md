@@ -1,6 +1,6 @@
 # Data_Tables
 
-## This is a practice project for automating Date Picker using Selenium Java.
+## This is a practice project for automating web table using Selenium Java.
 
 Thanks Angie Jones for the Automation Cookbook Series.
 
