@@ -4,7 +4,7 @@
 
 Thanks Angie Jones for the Automation Cookbook Series.
 
-[Blogpost](https://angiejones.tech/)
+Please refer this [Blogpost](https://angiejones.tech/)
 
 - Java
 - TestNG
